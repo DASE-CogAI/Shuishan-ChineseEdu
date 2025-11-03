@@ -21,8 +21,6 @@
   <a href="#en-us"><strong>English</strong></a>
 </p>
 
----
-
 <a name="zh-cn"></a>
 ## 简体中文
 
