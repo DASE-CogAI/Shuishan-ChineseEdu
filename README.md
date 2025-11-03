@@ -24,7 +24,6 @@
 <a name="zh-cn"></a>
 ## 简体中文
 
----
 
 <a name="zh-cn"></a>
 
@@ -33,7 +32,6 @@
 
 - 🌐 [https://github.com/DASE-CogAI/Shuishan-ChineseEdu](https://github.com/DASE-CogAI/Shuishan-ChineseEdu)
 
----
 
 ## 🌏 产品简介
 
