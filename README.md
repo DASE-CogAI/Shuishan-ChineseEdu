@@ -1,31 +1,22 @@
 <p align="center">
   <img src="DASE-CogAI.png" alt="DASE-CogAI" width="150"/>
 </p>
-
-<h1 align="center">🌲 水杉中文</h1>
-
-<h1 align="center">Shuishan ChineseEdu</h1>
-
-
+<h1 align="center">
+🌲 水杉中文
+Shuishan ChineseEdu
+</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-green" alt="Project Status">
   <img src="https://img.shields.io/badge/Version-1.0.0-blue" alt="Version">
   <img src="https://img.shields.io/badge/License-Proprietary-red" alt="License">
 </p>
-
-
 <p align="center">
   <strong>选择语言 (Select Language):</strong>
   <br />
   <a href="#zh-cn"><strong>简体中文</strong></a> | 
   <a href="#en-us"><strong>English</strong></a>
-</p>
-
-<a name="zh-cn"></a>
+</p><a name="zh-cn"></a>
 ## 简体中文
-
-
-<a name="zh-cn"></a>
 
 
 ## 🔗 官网地址
@@ -97,9 +88,11 @@
 #### 🏞️ 场景沙盒：定制你的沉浸式中文世界  
 
 告别千篇一律的课本对话，**“水杉中文”** 通过「场景沙盒」为您构建高度定制、可自由探索的中文应用场景。  
+
 无论是模拟在咖啡馆点单、街边问路，还是在市场讨价还价，您都可以在定制化语境中进行 **“Vibe Language Learning”**。  
 
-学习引擎会根据您自定义的场景，动态生成合理的学习路径，并结合学习兴趣与语言水平，自适应调整学习难度。  
+学习引擎会根据您自定义的场景，动态生成合理的学习路径，并结合学习兴趣与语言水平，自适应调整学习难度。 
+
 让您不仅“学中文”，更能“用中文”去体验与思考，实现从知识积累到能力养成的关键跃迁。
 
 
@@ -129,6 +122,7 @@
 #### 🎯 主题闯关：在兴趣牵引下高效进阶  
 
 **“水杉中文”** 以引人入胜的主题闯关模式，重塑游戏化、激励性的中文学习路径。  
+
 您将跟随精心设计的剧情线，逐级解锁与 **生活、旅行、文化、科技** 等热门领域相关的内容关卡。  
 
 多模态内容生成技术会持续为您创造新鲜的学习素材，而 **自适应学习引擎** 则像一位贴身教练：  
@@ -164,7 +158,7 @@
   </span>
 </p>
 <p align="center"><b>图6. 主题闯关-碎片化词汇练习、多技能习题练习 </b></p>
-    
+
 #### 🧰 智辅工具：即插即用的语言学习利器  
 
 **“水杉中文”** 持续推出一系列 **智辅工具集（Smart Toolkit）**， 将复杂的 AI 能力封装为轻量、易用的模块，让最前沿的语言教育科技触手可及。  
@@ -196,7 +190,7 @@
 
 平台持续采集您在「学、练、用」各环节的行为数据，进行融合分析与特征建模，形成完整的学习历程画像，为后续学习决策注入精准动力。
 
-##### 🧩 多粒度学情评估  
+##### 🧩 多粒度学情评估 
 
 依托大规模知识图谱，实现从 **字词掌握 → 主题知识 → 综合能力** 的多层次评估， 并通过可视化看板呈现，让学习者与系统都能精准定位薄弱环节。
 
@@ -211,14 +205,14 @@
   </span>
 </p>
 <p align="center"><b>图8. 学习引擎-多粒度学情评估</b></p>
-    
+
 ##### 💡 个性化学习推荐  
 
 基于动态学情与兴趣偏好，引擎会动态重构引擎会实时调整您的学习内容与路径
 
-- 推荐主题闯关任务  
-- 生成专项练习集  
-- 引导进入场景沙盒巩固学习  
+- 推荐主题闯关任务
+- 生成专项练习集
+- 引导进入场景沙盒巩固学习
 
 确保每个学习内容都精准匹配您的学习状态与目标，实现 **高效、智能、无冗余的学习体验**。
 <p align="center">
@@ -237,16 +231,22 @@
 #### 📚 一站式教学管理
 
 水杉中文还提供了兼顾 **“教、学、练、测、管”** 全链路的一站式中文教学平台。  
+
 五个环节环环相扣，覆盖了教与学的全场景。
 
 对于中文教师，平台支持以下功能：  
 - 🧾 **课程管理与班级管理**：支持灵活的课程与班级组织方式。  
+
 - 🧠 **教学辅助服务**：包括备课、授课场景下的习题生成、测验组卷、作业批改等功能。  
-- 🤖 **AI赋能工具库**：平台还提供全面的AI工具支持，使“教”与“管”更加高效，帮助教师释放创造力。  <p align="center">
-  <span style="display:inline-block; margin:0 10px;">
+
+- 🤖 **AI赋能工具库**：平台还提供全面的AI工具支持，使“教”与“管”更加高效，帮助教师释放创造力。 
+
+<p align="center">
+    <span style="display:inline-block; margin:0 10px;">
     <img src="image/网页1.png" alt="DASE-CogAI" width="500"/>
-  </span>
+    </span>
 </p>
+
 <p align="center"><b>图10. 一站式教学管理服务</b></p>
  <p align="center">
   <span style="display:inline-block; margin:0 10px;">
@@ -263,30 +263,29 @@
   <p align="center"><b>📱 APP端</b></p>
 </p>
 <p align="center">
-      <span style="display:inline-block; margin:0 10px;">
+	<span style="display:inline-block; margin:0 10px;">
     <img src="image/网页2.png" alt="DASE-CogAI" width="500"/>
-     
+	<p align="center"><b>💻 网页端</b></p>
 </p>
-<p align="center"><b>💻 网页端</b></p>
 
 ## 🎬 产品视频
+
+
+
+
 
 ## 🌿 项目
 
 <p align="center">
   <span style="display:inline-block; margin:0 10px;">
     <img src="image/10.png" alt="DASE-CogAI" width="150"/>
-
   </span>
   </span>
 </p>
 
-
-
-
 <a name="en-us"></a>
-## English
 
+## English
 
 [![中文](https://img.shields.io/badge/语言-中文-red.svg)](./README_zh.md)
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](./README.md)
@@ -347,7 +346,7 @@ This enables **personalized, adaptive learning paths** for each learner, ensurin
 ---
 
 ## 🧩 Product Content 
-### 📱 (一) APP端：学习服务 (Mobile App: Learning Services)  
+### 📱 1. Mobile App: Learning Services
 
 
 <p align="center">
@@ -377,7 +376,7 @@ Our learning engine can dynamically generate appropriate learning paths based on
   </span>
 </p>
 <p align="center"><b>Figure 3. Scenario Sandbox – Scene Customization</b></p>
-    
+
 #### 🎯 **Thematic Challenges: Advancing Efficiently Through Interest-Driven Learning**  
 <p align="center">
   <span style="display:inline-block; margin:0 10px;">
@@ -427,7 +426,7 @@ This ensures your learning journey remains engaging, efficient, and free of redu
 </p>
 <p align="center"><b>Figure 6. Thematic Missions – Fragmented Vocabulary Practice & Multi-Skill Exercises</b></p>
 
-    ### 🧰 Intelligent Learning Tools: Plug-and-Play Assistants for Chinese Leaning
+### 🧰 Intelligent Learning Tools: Plug-and-Play Assistants for Chinese Leaning
 
 **Shuishan ChineseEdu** continuously launches a suite of **intelligent learning tools**, encapsulating complex AI capabilities into lightweight, easy-to-use functional modules. Like a Swiss Army knife for language learning, these tools can be flexibly applied to tackle specific challenges, making cutting-edge language education technology truly accessible.  Currently, the following intelligent tools are available:
 
@@ -471,7 +470,7 @@ Powered by a large-scale knowledge graph, the engine conducts multi-layered diag
   </span>
 </p>
 <p align="center"><b>Figure 8. Learning Engine – Multi-Granularity Learning Assessment</b></p>
-    
+
 ##### 💡 **Personalized Learning Recommendations**
 
 Based on your **real-time learning progress** and **interest preferences**, the engine dynamically reconstructs and adjusts your learning content and pathway:
@@ -492,8 +491,8 @@ the system ensures that every piece of content you encounter precisely aligns wi
   </span>
 </p>
 <p align="center"><b>Figure 9. Learning Engine – Cross-Platform Personalized Recommendation Service</b></p>
-    
-### 💻 (二) 网页端：教学服务、管理服务 (Web Platform: Teaching & Management Services)   
+
+### 💻2. Web Platform: Teaching & Management Services
 
 #### 📚 One-Stop Teaching Management
 
