@@ -22,7 +22,7 @@ Shuishan ChineseEdu
 
 ## 🔗 官网地址
 
-- 🌐 [https://github.com/DASE-CogAI/Shuishan-ChineseEdu](https://github.com/DASE-CogAI/Shuishan-ChineseEdu)
+- 🌐 [https://smartlearn.shuishan.net.cn/](https://smartlearn.shuishan.net.cn/)
 
 
 ## 🌏 产品简介
