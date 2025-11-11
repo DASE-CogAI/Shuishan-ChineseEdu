@@ -288,12 +288,9 @@ Shuishan ChineseEdu
 
 ## English
 
-[![中文](https://img.shields.io/badge/语言-中文-red.svg)](./README_zh.md)
-[![English](https://img.shields.io/badge/lang-English-blue.svg)](./README.md)
-
 ### 🔗 Official Website
 
-- 🌐 [https://github.com/DASE-CogAI/Shuishan-ChineseEdu](https://github.com/DASE-CogAI/Shuishan-ChineseEdu)
+- 🌐 [https://smartlearn.shuishan.net.cn/](https://smartlearn.shuishan.net.cn/)
 
 ---
 ## 🌏 Product Introduction
@@ -344,7 +341,6 @@ This enables **personalized, adaptive learning paths** for each learner, ensurin
   </span>
 </p>
 <p align="center"><b>Figure 1. Shuishan ChineseEdu – Core Features</b></p>
----
 
 ## 🧩 Product Content 
 ### 📱 1. Mobile App: Learning Services
