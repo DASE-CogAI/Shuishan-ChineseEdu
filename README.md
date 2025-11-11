@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="DASE-CogAI.png" alt="DASE-CogAI" width="150"/>
+  <img src="image\水杉中文宣传海报.jpg" alt="DASE-CogAI" width="880"/>
 </p>
 <h1 align="center">
 🌲 水杉中文
